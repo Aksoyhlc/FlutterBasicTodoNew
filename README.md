@@ -1,5 +1,7 @@
 # todonew
 
+![enter image description here](assets/screenshot.png)
+
 A new Flutter project.
 
 ## Getting Started
